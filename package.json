@@ -1,0 +1,15 @@
+{
+  "name": "@abhaykumar01234/git_npm_try1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abhay Kumar",
+  "repository": {
+    "url": "git://github.com/abhaykumar01234/git_npm_try1.git"
+  },
+  "license": "ISC"
+}
